@@ -16,3 +16,6 @@ npm install prabakaranrvp/covid-cli
 `covid -l` Will list the available countries with country codes
 
 `covid -c <country_code>` will get the latest COVID-19 Case updates on the given country
+
+
+#### COVID DATA Realtime API Data Reference: https://github.com/ExpDev07/coronavirus-tracker-api
