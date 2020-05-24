@@ -6,7 +6,7 @@ COVID-19 Cli app
 Install using npm
 
 ```
- $ npm install prabakaranrvp/covid-cli
+npm install prabakaranrvp/covid-cli
 ```
 
 ## Usage
