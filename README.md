@@ -13,7 +13,7 @@ Install using npm
 
 `covid` Will get the COVID-19 Case updates from the world
 
-<img src='screenshots/word_update.png' />
+<img src='screenshots/world_update.png' height=400 alt='world updated' />
 
 `covid -l` Will list the available countries with country codes
 
